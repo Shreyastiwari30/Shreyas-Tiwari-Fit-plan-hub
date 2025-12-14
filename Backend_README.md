@@ -18,4 +18,4 @@ Protected routes using middleware,
 
 This project focuses more on backend logic, authentication, and database relationships rather than UI.
 
-All Api are tested using postman
+*All Api are tested using postman*
